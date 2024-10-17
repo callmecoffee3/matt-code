@@ -1,0 +1,97 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-4233a07be6a20e4832cba98599774f96eef09f1c/MyFiles/bat/matt%20code%20template1.html
+Subject: Haunted Series Suggestions
+Date: Thu, 17 Oct 2024 02:01:34 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ziE6mODnz8rTxOi97qH6VqL07NAdjSIH1PYdybiKaC----"
+
+
+------MultipartBoundary--ziE6mODnz8rTxOi97qH6VqL07NAdjSIH1PYdybiKaC----
+Content-Type: text/html
+Content-ID: <frame-EE5F61543CD106C4EF49616511CC9492@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-4233a07be6a20e4832cba98599774f96eef09f1c/MyFiles/bat/matt%20code%20template1.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-bd05fbe7-bf49-4581-acba-d9f839c402f1@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Haunted Series Suggestions</title>
+   =20
+</head>
+<body>
+    <div class=3D"container">
+        <div class=3D"main-categories">
+            <div class=3D"main-category">
+                <h2>Places</h2>
+                <ul>
+                    <li id=3D"haunted-mansion">Haunted Mansion</li>
+                    <li id=3D"abandoned-city">Abandoned City</li>
+                    <li id=3D"creepy-forest">Creepy Forest</li>
+                </ul>
+            </div>
+           =20
+            <div class=3D"main-category">
+                <h2>Characters</h2>
+                <ul>
+                    <li id=3D"protagonist">Protagonist</li>
+                    <li id=3D"antagonist">Antagonist</li>
+                    <li id=3D"supporting">Supporting Characters</li>
+                </ul>
+            </div>
+           =20
+            <div class=3D"main-category">
+                <h2>Activities</h2>
+                <ul>
+                    <li id=3D"investigation">Investigation</li>
+                    <li id=3D"chase">Chase</li>
+                    <li id=3D"puzzle">Puzzle</li>
+                </ul>
+            </div>
+        </div>
+       =20
+        <div class=3D"content-area">
+            <h1>Story Content</h1>
+            <!-- Your story content goes here -->
+        </div>
+    </div>
+   =20
+   =20
+
+
+</body></html>
+------MultipartBoundary--ziE6mODnz8rTxOi97qH6VqL07NAdjSIH1PYdybiKaC----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bd05fbe7-bf49-4581-acba-d9f839c402f1@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; background-color: rgb(51, 51, 51); c=
+olor: rgb(255, 255, 255); }
+
+.container { max-width: 800px; margin: 40px auto; display: flex; }
+
+.main-categories { width: 30%; background-color: rgb(68, 68, 68); padding: =
+20px; border-radius: 10px 0px 0px 10px; }
+
+.main-category { margin-bottom: 20px; }
+
+.main-category h2 { margin-top: 0px; }
+
+.main-category ul { list-style: none; padding: 0px; margin: 0px; }
+
+.main-category li { padding: 10px; border-bottom: 1px solid rgb(85, 85, 85)=
+; cursor: pointer; }
+
+.main-category li:hover { background-color: rgb(85, 85, 85); }
+
+.content-area { width: 70%; background-color: rgb(85, 85, 85); padding: 20p=
+x; border-radius: 0px 10px 10px 0px; }
+
+.content-area h1 { margin-top: 0px; }
+------MultipartBoundary--ziE6mODnz8rTxOi97qH6VqL07NAdjSIH1PYdybiKaC------
